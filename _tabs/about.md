@@ -7,7 +7,9 @@ order: 4
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
 
-I'm a Cyber professional with eight years in Cyber and Information Technology fields. Infrastructure and Linux enthusiast with a new found interest in Cloud technologies.
+I'm an IT and Cyber Security professional working towards Cloud technologies. I test a lot of things in my homelab, mostly working with Linux, Virtualization, and Containerization ( Docker, Kubernetes, K3s ). My current short-term roadmap is ~~AWS Solutions Architect~~(complete), followed by SysOps and Developer associate.
+
+If you want an up-to-date resumé, just send me an email or a message on linkedin.
 
 # Certifications
 AWS Certified Solutions Architect - Associate
