@@ -23,8 +23,8 @@ Tools & services used: [Jekyll, git, github, Github Pages, GitHub actions]
 
 
 
-
 Shoutout to Techono Tim for making a video about Jekyll, without him this process would've taken much longer.
 
 Video: https://www.youtube.com/watch?v=F8iOU1ci19Q\
 Docs: https://docs.technotim.live/posts/jekyll-docs-site/
+

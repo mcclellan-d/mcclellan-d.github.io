@@ -8,6 +8,8 @@ tags: [aws, serverless, lambda, api]
 # Serverless Application
 AWS Services Used: *S3, API Gateway, Lambda, Step Functions, Simple Email Service(SES), Simple Notification Service(SNS)*
 
+This was a silly lab but was an excellent way to incorporate many of the services covered by the Solutions Architect course. 
+
 This lab consisted of 5 stages:
 - STAGE 1 : Configure Simple Email service 
 - STAGE 2 : Add a email lambda function to use SES to send emails for the serverless application 
