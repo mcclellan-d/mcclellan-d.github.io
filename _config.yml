@@ -201,3 +201,15 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# This was added to make adding posts quick and easy
+# example commandline would be
+# "bundle exec jekyll post "The thing I did""
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      category: []
+      tags: []
+    posts:
+      category: []
+      tags: []
