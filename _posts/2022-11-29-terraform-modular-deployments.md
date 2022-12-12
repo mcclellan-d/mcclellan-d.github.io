@@ -5,7 +5,7 @@ date: 2022-11-29 16:41 -0600
 categories: [web]
 tags: [git, ci/cd, github, terraform, iac]
 ---
-This project utilizes openweathermap.org as the source data, NodeRed to query the data, influxdb to store the data, and Graphana to visualize the data.
+This project utilizes openweathermap.org as the source data, NodeRed to query the data, influxdb to store the data, and Grafana to visualize the data.
 
 This logical map is from the Terraform course I was following.
 
@@ -46,7 +46,7 @@ Here's some of the lesson highlights
 
 ## Related links
 
-https://github.com/mcclellan-d/terraform-docker
+My Github repo: https://github.com/mcclellan-d/terraform-docker
 
 
 Source Course: https://courses.morethancertified.com/p/mtc-terraform
